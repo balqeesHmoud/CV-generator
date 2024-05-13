@@ -1,0 +1,19 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+
+# Ignore generated output files
+cv_output.txt
+
+# Ignore any other generated files or directories
+__pycache__/
+.DS_Store
+
+# Ignore environment-specific files
+*.env
